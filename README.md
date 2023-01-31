@@ -78,7 +78,7 @@
   </a>
 </p>
 
-<h3 align="center">IDEs & Outils préférés</h3>
+<h3 align="center">IDE</h3>
 <p align="center">
   <a href="https://code.visualstudio.com/" target="_blank">
     <img src="https://img.shields.io/badge/vscode-007ACC.svg?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="vscode"/> 
