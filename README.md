@@ -119,6 +119,6 @@
 ---
 
 <p align="center">
-  <img  src="https://github.com/ItsAlexousd/ItsAlexousd/blob/main/grid-snake.svg"
+  <img  src="https://github.com/Snaydo/Snaydo/blob/main/grid-snake.svg"
     alt="snake" />
 </p>
