@@ -2,7 +2,7 @@
   <img style="width:70%; height:auto" src="https://i.imgur.com/iXuL1HG.png"/>
 </p>
 
-<h1 align="center">Bonjour, je suis Snaydo <img width="30px" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif"></h1>
+<h1 align="center">Bonjour, je suis Sacha <img width="30px" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif"></h1>
 <h3 font-size="20" align="center">Un étudiant passionné par le développement en BTS SIO.</h3>
 <p>J'aime coder, concevoir, innover et expérimenter. Je suis une personne enthousiaste et sociale qui aime relever de nouveaux défis et apprendre de nouvelles compétences. J'aime rencontrer de nouvelles personnes, échanger des idées et diffuser des connaissances et de la positivité.</p>
 
