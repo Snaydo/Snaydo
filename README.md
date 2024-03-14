@@ -3,8 +3,8 @@
 </p>
 
 <h1 align="center">Bonjour, je suis Sacha <img width="30px" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif"></h1>
-<h3 font-size="20" align="center">Un étudiant passionné par le développement en BTS SIO.</h3>
-<p>J'aime coder, concevoir, innover et expérimenter. Je suis une personne enthousiaste et sociale qui aime relever de nouveaux défis et apprendre de nouvelles compétences. J'aime rencontrer de nouvelles personnes, échanger des idées et diffuser des connaissances et de la positivité.</p>
+<h3 font-size="20" align="center">Passionné de développement logiciel, actuellement en autoformation après un BTS SIO.</h3>
+<p>Ayant un parcours initialement académique en BTS SIO, je me consacre désormais à l'autoformation pour affiner mes compétences en développement. Je suis fasciné par la possibilité de créer, d'innover et d'expérimenter à travers le code. Sociable et toujours enthousiaste à l'idée de relever de nouveaux défis, j'apprécie particulièrement rencontrer de nouvelles personnes, échanger des idées, et partager connaissances et positivité dans le domaine de la technologie.</p>
 
 ---
 
